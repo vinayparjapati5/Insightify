@@ -1,0 +1,605 @@
+**03/02/2025, 10**: 23 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+**04/02/2025, 10**: 40 pm - Vinay India: Hello bhai
+**04/02/2025, 10**: 40 pm - Vinay India: Vinay this side
+**04/02/2025, 10**: 40 pm - warishayat69: yes
+**04/02/2025, 10**: 40 pm - warishayat69: waris here
+**04/02/2025, 10**: 40 pm - Vinay India: Make a group
+**04/02/2025, 10**: 40 pm - warishayat69: we are in the same group?
+**04/02/2025, 10**: 40 pm - warishayat69: who is the third one?
+**04/02/2025, 10**: 40 pm - Vinay India: Then we will discuss the project and divide our work
+**04/02/2025, 10**: 40 pm - Vinay India: Accordingly
+**04/02/2025, 10**: 40 pm - Vinay India: Yes
+**04/02/2025, 10**: 40 pm - warishayat69: ok sure who is third one <This message was edited>
+**04/02/2025, 10**: 41 pm - Vinay India: Fahad
+**04/02/2025, 10**: 41 pm - Vinay India: What's ur tech stack brother?
+**04/02/2025, 10**: 42 pm - warishayat69: machine learning and little bit backend
+**04/02/2025, 10**: 42 pm - warishayat69: with fastapi
+**04/02/2025, 10**: 42 pm - Vinay India: Nice nice
+**04/02/2025, 10**: 42 pm - Vinay India: Mine is machine learning and some sort of deep learning (mainly object and pose detection)
+**04/02/2025, 10**: 42 pm - warishayat69: like how to make endpoints and handle the data
+**04/02/2025, 10**: 43 pm - Vinay India: Sath sath sikhte rhege bhai
+**04/02/2025, 10**: 43 pm - warishayat69: have you done any other internship before this one?
+**04/02/2025, 10**: 43 pm - warishayat69: i am completely new
+**04/02/2025, 10**: 43 pm - warishayat69: 🥲
+**04/02/2025, 10**: 43 pm - Vinay India: Me too
+**04/02/2025, 10**: 44 pm - Vinay India: Summer internship I did which is mainly in object detection
+**04/02/2025, 10**: 44 pm - warishayat69: i was completely confuse wile writing the purposal
+**04/02/2025, 10**: 44 pm - Vinay India: Same
+**04/02/2025, 10**: 44 pm - warishayat69: 🤣
+**04/02/2025, 10**: 44 pm - Vinay India: In which year you r?
+**04/02/2025, 10**: 44 pm - Vinay India: Graduation
+**04/02/2025, 10**: 44 pm - warishayat69: im in my 4th year and 7 semester
+**04/02/2025, 10**: 45 pm - warishayat69: software engineering
+**04/02/2025, 10**: 45 pm - warishayat69: what about you?
+**04/02/2025, 10**: 45 pm - Vinay India: same I'm also in 4th year in 8th sem
+**04/02/2025, 10**: 45 pm - warishayat69: nice which institute?
+**04/02/2025, 10**: 45 pm - Vinay India: Thapar Institute of Engineering and Technology
+**04/02/2025, 10**: 46 pm - warishayat69: got it
+**04/02/2025, 10**: 46 pm - Vinay India: Make a whatsapp group with fahad
+**04/02/2025, 10**: 46 pm - warishayat69: let me contact him.
+**04/02/2025, 10**: 46 pm - Vinay India: Then we will discuss tomorrow and make proper strategy to learn and apply
+**04/02/2025, 10**: 46 pm - warishayat69: okay done
+**04/02/2025, 10**: 47 pm - warishayat69: i am totally confused about frontend
+**04/02/2025, 10**: 47 pm - Vinay India: DSA vgera krte bhai ?
+**04/02/2025, 10**: 47 pm - Vinay India: Placement hogyi ?
+**04/02/2025, 10**: 47 pm - warishayat69: yes abhi start kia bus sth sth
+**04/02/2025, 10**: 47 pm - Vinay India: nice nice
+**04/02/2025, 10**: 48 pm - warishayat69: yar pakistan m koi placement ka chakar e nai hae bahut mahool kahrab hae idr
+**04/02/2025, 10**: 48 pm - Vinay India: oh toh job?
+**04/02/2025, 10**: 48 pm - warishayat69: but dsa mena phly kia hua h kch advance topic rehty thy
+**04/02/2025, 10**: 48 pm - Vinay India: leetcode?
+**04/02/2025, 10**: 48 pm - Vinay India: dp graphs>
+**04/02/2025, 10**: 48 pm - Vinay India: ?
+**04/02/2025, 10**: 49 pm - warishayat69: yahn pr referance se jon mlti  buss no ask you dsa like stuff in the interview.
+**04/02/2025, 10**: 49 pm - warishayat69: job*
+**04/02/2025, 10**: 49 pm - Vinay India: acha
+**04/02/2025, 10**: 49 pm - Vinay India: yeh internship best hain
+**04/02/2025, 10**: 49 pm - warishayat69: yes yes dp graph rehty but revise karna start kia h abhi sth leetcode b solve kar ra hu
+**04/02/2025, 10**: 49 pm - Vinay India: badhiya project bnvadenge
+**04/02/2025, 10**: 50 pm - Vinay India: great
+**04/02/2025, 10**: 50 pm - warishayat69: yes
+**04/02/2025, 10**: 50 pm - warishayat69: ap btao dsa karru ho ap?
+**04/02/2025, 10**: 50 pm - warishayat69: yes
+**04/02/2025, 10**: 50 pm - Vinay India: haan dsa revise krra hu
+**04/02/2025, 10**: 50 pm - warishayat69: apki placement ka kia scene
+**04/02/2025, 10**: 50 pm - Vinay India: firse practice krna shuru kiya
+**04/02/2025, 10**: 51 pm - Vinay India: abhi companies aari hain
+**04/02/2025, 10**: 51 pm - warishayat69: any tip
+**04/02/2025, 10**: 51 pm - Vinay India: but khi ni horaha h
+**04/02/2025, 10**: 51 pm - warishayat69: for dsa
+**04/02/2025, 10**: 51 pm - warishayat69: acha acha
+**04/02/2025, 10**: 51 pm - Vinay India: striver sheet hi follow kro yr
+**04/02/2025, 10**: 51 pm - warishayat69: why you not applying in google ?
+**04/02/2025, 10**: 51 pm - warishayat69: india m tu office h na google ka
+**04/02/2025, 10**: 51 pm - warishayat69: micorsoft ka
+**04/02/2025, 10**: 51 pm - Vinay India: bhai uske liye bhut tagdi profile honi chaiye
+**04/02/2025, 10**: 51 pm - warishayat69: do you have
+**04/02/2025, 10**: 52 pm - warishayat69: striver
+**04/02/2025, 10**: 52 pm - Vinay India: google pr daldo
+**04/02/2025, 10**: 52 pm - Vinay India: striver a2z sheet
+**04/02/2025, 10**: 52 pm - warishayat69: how much total question are there?
+**04/02/2025, 10**: 53 pm - Vinay India: 450 a2z
+**04/02/2025, 10**: 53 pm - Vinay India: till dp
+**04/02/2025, 10**: 53 pm - warishayat69: sure i will check it.
+**04/02/2025, 10**: 53 pm - warishayat69: what is your full name?
+**04/02/2025, 10**: 54 pm - Vinay India: Vinay Kumar
+**04/02/2025, 10**: 54 pm - Vinay India: share me ur linkedin
+**04/02/2025, 11**: 04 pm - warishayat69: Let me share
+**04/02/2025, 11**: 05 pm - warishayat69: https://www.linkedin.com/in/warishayat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**05/02/2025, 6**: 03 pm - Vinay India: Bhai
+**05/02/2025, 6**: 03 pm - Vinay India: Kya dikhana hain
+**05/02/2025, 6**: 05 pm - warishayat69: kuch nai
+**06/02/2025, 2**: 44 pm - Vinay India: null
+**06/02/2025, 3**: 39 pm - Vinay India: null
+**06/02/2025, 3**: 43 pm - warishayat69: PTT-20250206-WA0062.opus (file attached)
+**06/02/2025, 3**: 43 pm - Vinay India: Haan sir koi na
+**06/02/2025, 3**: 44 pm - warishayat69: PTT-20250206-WA0063.opus (file attached)
+**06/02/2025, 3**: 44 pm - Vinay India: Okay sir
+**06/02/2025, 3**: 44 pm - Vinay India: M bhi krleta hoon apna kaam
+**06/02/2025, 3**: 59 pm - warishayat69: Achaa
+**06/02/2025, 4**: 30 pm - warishayat69: VID-20250206-WA0069.mp4 (file attached)
+- Cursor ai k is feature ka pata h?
+**06/02/2025, 4**: 31 pm - Vinay India: vs code jaisa hi hain
+**06/02/2025, 4**: 31 pm - Vinay India: but yeh help krdeta hain
+**06/02/2025, 4**: 31 pm - Vinay India: jaha kuch issue hota hain
+**06/02/2025, 4**: 31 pm - Vinay India: sath mein ai bhi h isme vo bug vgera bhu solve krdta hain
+**06/02/2025, 4**: 32 pm - warishayat69: Han je han je
+**06/02/2025, 4**: 32 pm - Vinay India: mein bhi issi pr kr raha hu
+**06/02/2025, 4**: 32 pm - warishayat69: Han ye best hae
+**06/02/2025, 4**: 32 pm - Vinay India: hnji
+**06/02/2025, 5**: 04 pm - warishayat69: Done with rag
+**06/02/2025, 5**: 04 pm - warishayat69: Let me show you
+**06/02/2025, 5**: 04 pm - Vinay India: Sure
+**06/02/2025, 5**: 07 pm - warishayat69: IMG-20250206-WA0071.jpg (file attached)
+**06/02/2025, 5**: 08 pm - warishayat69: IMG-20250206-WA0072.jpg (file attached)
+**06/02/2025, 5**: 14 pm - Vinay India: Nice nice
+**06/02/2025, 5**: 14 pm - Vinay India: Sir
+**06/02/2025, 5**: 14 pm - Vinay India: 🤌🏻
+**06/02/2025, 5**: 14 pm - warishayat69: ab agy kia karna h kuch smj nai ara
+**06/02/2025, 5**: 15 pm - Vinay India: Mera nhi hora hain aaj
+**06/02/2025, 5**: 15 pm - warishayat69: ku?
+**06/02/2025, 5**: 15 pm - Vinay India: Issue aara hain
+**06/02/2025, 5**: 15 pm - warishayat69: kidr masla ara hae?
+**06/02/2025, 5**: 15 pm - warishayat69: kia?
+**06/02/2025, 5**: 15 pm - Vinay India: Ab fir se start krra hoon
+**06/02/2025, 5**: 15 pm - Vinay India: Sab files delete kri Hain
+**06/02/2025, 5**: 15 pm - warishayat69: agr koi error nai solve hora ho tu btaya karo fr us ka soloution mil kar dhudeingy
+**06/02/2025, 5**: 16 pm - Vinay India: Okay
+**06/02/2025, 5**: 16 pm - Vinay India: Abhi toh firse krra hoon
+**06/02/2025, 5**: 16 pm - warishayat69: acha acha easy ho kar karo
+**06/02/2025, 5**: 16 pm - Vinay India: Mongdb se krleta hoon abhi toh
+**06/02/2025, 5**: 16 pm - warishayat69: ik do dinu m khtm kar du m yea rag wla sara fr m b appki help karuga
+**06/02/2025, 5**: 17 pm - warishayat69: us part m
+**06/02/2025, 5**: 17 pm - Vinay India: Jaise video mein krare hain
+**06/02/2025, 5**: 17 pm - Vinay India: Itna mein try krta hoon
+**06/02/2025, 5**: 17 pm - Vinay India: Hojayega mp yeh
+**06/02/2025, 5**: 17 pm - warishayat69: ach acha easy hokar kro 12 din hn abhi 2 din huay haen
+**06/02/2025, 5**: 17 pm - Vinay India: Yeh video khtm krdeta hoon
+**06/02/2025, 5**: 17 pm - Vinay India: Aaj
+**06/02/2025, 5**: 17 pm - warishayat69: han best h try karo wo
+**06/02/2025, 5**: 17 pm - Vinay India: Ji sir
+**06/02/2025, 5**: 17 pm - warishayat69: m thura ocr dekh lu jab tk
+**06/02/2025, 5**: 18 pm - Vinay India: Haan sahi sahi
+**06/02/2025, 5**: 18 pm - warishayat69: okay
+**06/02/2025, 6**: 24 pm - warishayat69: yar yeh youtube wali kia chz thi smj e nai ai?
+**06/02/2025, 6**: 24 pm - Vinay India: null
+**06/02/2025, 6**: 24 pm - Vinay India: null
+**06/02/2025, 6**: 26 pm - Vinay India: <iframe width="768" height="480" src="https://www.youtube.com/embed/OYkmIIKfWq4" title="Complete Login/Signup MERN Stack | Mongo, Express, React and Node Authentication with Deployment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**06/02/2025, 9**: 18 pm - Vinay India: https://youtu.be/ZVyIIyZJutM?si=MAzI6mv839_b62_7
+**06/02/2025, 9**: 18 pm - Vinay India: Mein yaha se bna Raha hu
+**06/02/2025, 9**: 19 pm - warishayat69: han thk hae
+**06/02/2025, 9**: 20 pm - warishayat69: ocr wla nai hora dont know why
+**06/02/2025, 9**: 21 pm - Vinay India: Acha
+**06/02/2025, 9**: 21 pm - Vinay India: Sir se puchlena
+**06/02/2025, 9**: 21 pm - Vinay India: Yeh sahi h na ?
+**06/02/2025, 9**: 24 pm - warishayat69: han best h
+**06/02/2025, 10**: 20 pm - Vinay India: Kr rhe ho bhai
+**06/02/2025, 10**: 20 pm - Vinay India: ?
+**06/02/2025, 10**: 20 pm - Vinay India: Bhai mere mein error hi aare hain
+**06/02/2025, 10**: 20 pm - Vinay India: Mene page bnaya tha abhi react mein
+**06/02/2025, 10**: 20 pm - Vinay India: Pehle bngya ab gayab hogya
+**06/02/2025, 10**: 21 pm - warishayat69: mery m b error aray haen
+**06/02/2025, 10**: 21 pm - warishayat69: ni ho par a
+**06/02/2025, 10**: 21 pm - warishayat69: ocr m msla ara h kuch
+**06/02/2025, 10**: 23 pm - Vinay India: Dimag kharab hora g
+**06/02/2025, 10**: 23 pm - Vinay India: Pehle bnjata h fir pta nhi kya aajata h
+**06/02/2025, 10**: 23 pm - warishayat69: manveer sir se puch lo
+**06/02/2025, 10**: 23 pm - warishayat69: kia msla h
+**06/02/2025, 10**: 24 pm - warishayat69: wo guide kar diengy
+**06/02/2025, 10**: 24 pm - Vinay India: Hn vhi krta hoon
+**06/02/2025, 10**: 24 pm - warishayat69: mujhy khud nai smj arau
+**06/02/2025, 10**: 24 pm - warishayat69: arai kdr ghlti hori h
+**06/02/2025, 10**: 24 pm - Vinay India: Hn
+**06/02/2025, 10**: 30 pm - Vinay India: Mene boldiya manveer sir ko
+**06/02/2025, 10**: 30 pm - warishayat69: stuck hogya hn
+**06/02/2025, 10**: 30 pm - warishayat69: kia
+**06/02/2025, 10**: 30 pm - Vinay India: Ki koi bdhiya si tutorial bhejde
+**06/02/2025, 10**: 30 pm - warishayat69: acha acha
+**06/02/2025, 10**: 30 pm - Vinay India: Haar baar issue fas raha hain khi na khi
+**06/02/2025, 10**: 31 pm - warishayat69: yea project humse ik mahiny m b nai hoga
+**06/02/2025, 10**: 31 pm - Vinay India: 🥲🥲
+**06/02/2025, 10**: 32 pm - warishayat69: zoom join karte hn fir dekhte hane
+**06/02/2025, 10**: 53 pm - Vinay India: Whisper model hugging face for youtube
+**06/02/2025, 10**: 55 pm - warishayat69: Let me check
+**06/02/2025, 11**: 00 pm - Vinay India: Muhammad toh bhaag hi gya
+**06/02/2025, 11**: 01 pm - Vinay India: Mein toh kehta hoon Mrityunjay ko bhi apni team mein hi add krlo😂
+**06/02/2025, 11**: 02 pm - warishayat69: han mujhy b lagra
+**06/02/2025, 11**: 02 pm - warishayat69: wo ni ayega
+**06/02/2025, 11**: 02 pm - warishayat69: uski maybe kahi aur job hogyi hae
+**06/02/2025, 11**: 05 pm - Vinay India: Haan ho skta hain
+**06/02/2025, 11**: 06 pm - warishayat69: chalo koi nai
+**06/02/2025, 11**: 06 pm - Vinay India: Mein react vala krlunga kaam
+**06/02/2025, 11**: 06 pm - Vinay India: Aap rag vala ache se krlo
+**06/02/2025, 11**: 06 pm - Vinay India: Ab dheere dheere krne se hojayega
+**06/02/2025, 11**: 06 pm - warishayat69: wo m karra hu
+**06/02/2025, 11**: 06 pm - Vinay India: Manveer sir h guide ke liye
+**06/02/2025, 11**: 07 pm - warishayat69: m try karra hu mujhy msj ajye project then m koi iska solution nikalu
+**06/02/2025, 11**: 07 pm - Vinay India: Pehli baar krra hu toh issue toh aayega hi
+**06/02/2025, 11**: 07 pm - warishayat69: smj
+**06/02/2025, 11**: 07 pm - Vinay India: But page toh bna atleast
+**06/02/2025, 11**: 07 pm - Vinay India: Finally
+**06/02/2025, 11**: 09 pm - warishayat69: han na
+**06/02/2025, 11**: 25 pm - warishayat69: https://youtube.com/playlist?list=PLk8gdrb2DmCicLTZJWC2cCTFXloTBMBCt&si=v9Xy3fgaPm2JmQVb
+**06/02/2025, 11**: 25 pm - warishayat69: Yh chk krna
+**06/02/2025, 11**: 29 pm - Vinay India: Lg toh badhiya hi raha h
+**06/02/2025, 11**: 33 pm - Vinay India: Best h yeh
+**06/02/2025, 11**: 33 pm - Vinay India: Yehi try krta hoon kal
+**06/02/2025, 11**: 33 pm - Vinay India: Fir bas isme linkedin add Krna pdega
+**06/02/2025, 11**: 33 pm - warishayat69: Hn yr m b ab kl kruga thal gya hu
+**06/02/2025, 11**: 33 pm - Vinay India: Yeh bhot crispy h
+**06/02/2025, 11**: 34 pm - Vinay India: Bhut achi bnegi website
+**06/02/2025, 11**: 34 pm - Vinay India: Or Sundar bhu
+**06/02/2025, 11**: 34 pm - warishayat69: Han youtube kholaa tu agy dikha gya m soucha share kr du
+**06/02/2025, 11**: 35 pm - Vinay India: Sahi kiya aapne
+**06/02/2025, 11**: 35 pm - Vinay India: Yeh mein krta hoon kal hi
+**06/02/2025, 11**: 35 pm - Vinay India: Aaj toh tym waste hi hua
+**06/02/2025, 11**: 35 pm - warishayat69: Mera b tkribn
+**07/02/2025, 2**: 20 pm - warishayat69: kuch bna?
+**07/02/2025, 2**: 20 pm - Vinay India: mein course kr raha hoon aaj
+**07/02/2025, 2**: 20 pm - Vinay India: uske baad bnata hoon
+**07/02/2025, 2**: 21 pm - warishayat69: konsa course
+**07/02/2025, 2**: 21 pm - Vinay India: deep learning
+**07/02/2025, 2**: 21 pm - warishayat69: yar unky link bhj dena mujhy b
+**07/02/2025, 2**: 21 pm - Vinay India: null
+**07/02/2025, 2**: 22 pm - Vinay India: Week 1.docx (file attached)
+- Week 1.docx
+**07/02/2025, 4**: 41 pm - Vinay India: aapne mongodb k upr kaam kiya hain?
+**07/02/2025, 4**: 41 pm - warishayat69: Nai
+**07/02/2025, 5**: 22 pm - warishayat69: yr kch smj nai arai
+**07/02/2025, 5**: 25 pm - Vinay India: Sir se puch lenge ab meeting mein
+**07/02/2025, 5**: 25 pm - warishayat69: han dekhte
+**07/02/2025, 5**: 26 pm - warishayat69: apny kch kea?
+**07/02/2025, 5**: 26 pm - warishayat69: saturday sunday off hae?
+**07/02/2025, 5**: 26 pm - warishayat69: yea mettings hngi.
+**07/02/2025, 5**: 26 pm - Vinay India: Haan mene page bna liya hain
+**07/02/2025, 5**: 26 pm - Vinay India: Bas database setup karna hain vo puchunga
+**07/02/2025, 5**: 27 pm - Vinay India: Baki krdiya
+**07/02/2025, 5**: 27 pm - Vinay India: Backend se bhi link hogya
+**07/02/2025, 5**: 27 pm - warishayat69: acha
+**07/02/2025, 5**: 27 pm - warishayat69: ss bhjo?
+**07/02/2025, 5**: 28 pm - Vinay India: wait
+**07/02/2025, 5**: 28 pm - warishayat69: IMG-20250207-WA0018.jpg (file attached)
+- mera koi yea ik pkg h onnx jo unstructured k sth ata h yea msla karra hae.
+**07/02/2025, 5**: 29 pm - Vinay India: acha acha
+**07/02/2025, 5**: 29 pm - Vinay India: meet mein puchlena aa
+**07/02/2025, 5**: 29 pm - Vinay India: aap
+**07/02/2025, 5**: 30 pm - warishayat69: Kafi dar se grup m mag kiye hn ho e nai ra pata nai kia h
+**07/02/2025, 5**: 36 pm - Vinay India: VID-20250207-WA0019.mp4 (file attached)
+**07/02/2025, 5**: 37 pm - warishayat69: Best h
+**07/02/2025, 5**: 37 pm - Vinay India: database m jab store hoga
+**07/02/2025, 5**: 37 pm - Vinay India: tab home page pr jayega'
+**07/02/2025, 5**: 38 pm - warishayat69: Us m authentication b use hogi ?
+**07/02/2025, 5**: 38 pm - warishayat69: Jwt wali jesy huti
+**07/02/2025, 5**: 38 pm - Vinay India: haan abhi google account vali dal raha hu
+**07/02/2025, 5**: 38 pm - Vinay India: starting mein
+**07/02/2025, 5**: 38 pm - warishayat69: Ach acha
+**07/02/2025, 5**: 38 pm - Vinay India: or linkedin se bhi
+**07/02/2025, 5**: 38 pm - Vinay India: abhi add kr rha hu
+**07/02/2025, 5**: 38 pm - warishayat69: Fr sahi h
+**07/02/2025, 5**: 38 pm - Vinay India: fir backend pr aapka code chlega
+**07/02/2025, 5**: 39 pm - Vinay India: or fronted pr mein page or interface bna dunga
+**07/02/2025, 5**: 39 pm - Vinay India: sabka
+**07/02/2025, 5**: 39 pm - warishayat69: Okay done aa
+**07/02/2025, 6**: 47 pm - Vinay India: Kaam sahi raha mera ?
+**07/02/2025, 6**: 47 pm - Vinay India: Code vgera dekhe aapne ?
+**07/02/2025, 7**: 00 pm - warishayat69: PTT-20250207-WA0020.opus (file attached)
+**07/02/2025, 7**: 01 pm - Vinay India: mein linkedin ko connect krdunga aaj 11 tak
+**07/02/2025, 7**: 01 pm - Vinay India: or database se bhi krdunha
+**07/02/2025, 7**: 01 pm - Vinay India: youtube vala aap ek baar mratunjay se puchlena
+**07/02/2025, 7**: 01 pm - warishayat69: Okayy
+**07/02/2025, 7**: 18 pm - Vinay India: database se connect hogya finally
+**07/02/2025, 7**: 18 pm - Vinay India: 🥳
+**07/02/2025, 7**: 18 pm - warishayat69: Wao
+**07/02/2025, 7**: 18 pm - Vinay India: ab bas linkedin se krta hoon
+**07/02/2025, 7**: 20 pm - warishayat69: Google se hogya?
+**07/02/2025, 7**: 20 pm - Vinay India: yess
+**07/02/2025, 7**: 21 pm - warishayat69: Chalo best h
+**07/02/2025, 7**: 21 pm - Vinay India: Dheere Dheere kaam ho raha hain
+**07/02/2025, 7**: 21 pm - warishayat69: PTT-20250207-WA0029.opus (file attached)
+**07/02/2025, 7**: 22 pm - Vinay India: haan aage fir vhi bnaunga
+**07/02/2025, 7**: 22 pm - Vinay India: aage ka frontend
+**07/02/2025, 7**: 22 pm - warishayat69: Ach achaa
+**07/02/2025, 7**: 22 pm - warishayat69: Then best h
+**07/02/2025, 7**: 22 pm - Vinay India: kal hi bnaunga vo sab toh
+**07/02/2025, 7**: 22 pm - warishayat69: Han best h
+**07/02/2025, 7**: 22 pm - Vinay India: abhi toh linkedin se connect krta hoon
+**07/02/2025, 7**: 22 pm - warishayat69: PTT-20250207-WA0030.opus (file attached)
+**07/02/2025, 7**: 23 pm - Vinay India: han usme frontend krdunga sara complete
+**07/02/2025, 7**: 23 pm - warishayat69: Han m b koshish kruga k yea hojaye monday tak.
+**07/02/2025, 7**: 23 pm - Vinay India: nice nice
+**07/02/2025, 7**: 24 pm - Vinay India: fir apna 50-60% project hojayega
+**07/02/2025, 7**: 24 pm - Vinay India: fir bas link krna rhega
+**07/02/2025, 7**: 24 pm - warishayat69: Yes fr bus integration reh jayegi
+**07/02/2025, 7**: 24 pm - warishayat69: PTT-20250207-WA0031.opus (file attached)
+**07/02/2025, 7**: 25 pm - Vinay India: haan vo bhi puchta hoon
+**07/02/2025, 11**: 03 pm - Vinay India: Chlo 2 din toh rest h
+**07/02/2025, 11**: 03 pm - Vinay India: Aram se hoga kaam ab
+**07/02/2025, 11**: 03 pm - Vinay India: M page bna lunga
+**07/02/2025, 11**: 05 pm - warishayat69: han yar m b do dinu m karluga sara
+**07/02/2025, 11**: 05 pm - warishayat69: rag wala part
+**07/02/2025, 11**: 05 pm - warishayat69: fr backend pr api bna k de duga apkko
+**07/02/2025, 11**: 05 pm - Vinay India: Yeh naya banda bhi mere jaisa hi h
+**07/02/2025, 11**: 05 pm - warishayat69: ap usko frontend k sth integerate kar lena
+**07/02/2025, 11**: 05 pm - Vinay India: 🥲
+**07/02/2025, 11**: 06 pm - warishayat69: ik martuynjay ko chour k sub e new han🤣
+**07/02/2025, 11**: 06 pm - Vinay India: But yeh toh ghabra gya hoga itna Sara kaam dekhkr
+**07/02/2025, 11**: 06 pm - Vinay India: Bolra hoga kha fas gya mein 😂
+**07/02/2025, 11**: 06 pm - warishayat69: 😂😂
+**07/02/2025, 11**: 06 pm - warishayat69: han uska bhai cofounder h usny bola hoga aja kuch seekh lega
+**07/02/2025, 11**: 07 pm - Vinay India: Acha talha sir k bhai h kya yeh
+**07/02/2025, 11**: 07 pm - warishayat69: han je
+**07/02/2025, 11**: 07 pm - Vinay India: Lga diye uske toh bache ke
+**07/02/2025, 11**: 07 pm - warishayat69: warna kahan hire krty haen
+**07/02/2025, 11**: 08 pm - warishayat69: 🤣🤣🤣
+**07/02/2025, 11**: 08 pm - Vinay India: Pehle din hi sir ghum gya hoga kasam se
+**07/02/2025, 11**: 08 pm - warishayat69: ahista ahista smj ajyegi usko
+**07/02/2025, 11**: 08 pm - Vinay India: Inke pass sach m itne sare applications aate h ?
+**07/02/2025, 11**: 08 pm - warishayat69: ibtida ay ishq m rota hae kia agy agy dekh huta h kia🤣🤣🤣
+**07/02/2025, 11**: 09 pm - Vinay India: 😂😂
+**07/02/2025, 11**: 13 pm - warishayat69: Kam karty ho push?
+**07/02/2025, 11**: 13 pm - warishayat69: Github pr
+**07/02/2025, 11**: 13 pm - Vinay India: Nhi abhi nhi
+**07/02/2025, 11**: 13 pm - Vinay India: Uska kal puchta hoon
+**07/02/2025, 11**: 13 pm - Vinay India: Aapse
+**07/02/2025, 11**: 14 pm - warishayat69: Ach achaa kr dea kro kahi dlt e nh hoajyn
+**07/02/2025, 11**: 15 pm - Vinay India: Delete nhi hoga
+**07/02/2025, 11**: 15 pm - warishayat69: PTT-20250207-WA0039.opus (file attached)
+**07/02/2025, 11**: 20 pm - warishayat69: PTT-20250207-WA0042.opus (file attached)
+**07/02/2025, 11**: 20 pm - Vinay India: Acha  fir toh acha h
+**07/02/2025, 11**: 20 pm - Vinay India: Haan done
+**07/02/2025, 11**: 20 pm - Vinay India: Dono ko kaam aajayega
+**07/02/2025, 11**: 21 pm - warishayat69: PTT-20250207-WA0043.opus (file attached)
+**07/02/2025, 11**: 21 pm - Vinay India: Haan sahi kehre ho
+**07/02/2025, 11**: 22 pm - Vinay India: Ek do din pehle merese google authentication nhi hori thi
+**07/02/2025, 11**: 22 pm - Vinay India: Ab toh bade ache se aagya Krna
+**07/02/2025, 11**: 22 pm - warishayat69: 3 mhinu m bhut kch seekhygy
+**07/02/2025, 11**: 22 pm - Vinay India: Haan vhi
+**07/02/2025, 11**: 23 pm - Vinay India: Umair bhaiya sath h humare
+**07/02/2025, 11**: 23 pm - Vinay India: Team achi h
+**07/02/2025, 11**: 23 pm - warishayat69: Hn ji
+**07/02/2025, 11**: 23 pm - Vinay India: Bhut tgde tgde projects bnvare h
+**07/02/2025, 11**: 23 pm - Vinay India: Khi bhi job de hi dega bnda kisi company mein
+**07/02/2025, 11**: 24 pm - warishayat69: Han blkul
+**07/02/2025, 11**: 24 pm - warishayat69: Kuch na kch hojayega
+**07/02/2025, 11**: 24 pm - Vinay India: Hanji
+**07/02/2025, 11**: 25 pm - warishayat69: M abhi youtube wla kr duga
+**07/02/2025, 11**: 25 pm - Vinay India: Acha sahi h
+**07/02/2025, 11**: 25 pm - warishayat69: Rat ko
+**07/02/2025, 11**: 25 pm - Vinay India: Sahi h sahi h
+**07/02/2025, 11**: 25 pm - warishayat69: Baki kal sham tak khtm krduga rah
+**07/02/2025, 11**: 25 pm - warishayat69: Rag
+**07/02/2025, 11**: 25 pm - warishayat69: Fr courses kruga
+**07/02/2025, 11**: 25 pm - Vinay India: Kal vo sare courses khtm krdenge
+**07/02/2025, 11**: 26 pm - warishayat69: Han rat tk.
+**07/02/2025, 11**: 27 pm - warishayat69: M tu apis bnany k liye fastapi uae krta hu
+**07/02/2025, 11**: 27 pm - warishayat69: Wo integrate krlogy front pr?
+**07/02/2025, 11**: 27 pm - Vinay India: Abhi toh nhi aata but seekhlunga
+**07/02/2025, 11**: 27 pm - Vinay India: YouTube p dekhkr lelunga
+**07/02/2025, 11**: 27 pm - warishayat69: Chalo kar leingy
+**07/02/2025, 11**: 27 pm - Vinay India: Krlunga
+**07/02/2025, 11**: 27 pm - Vinay India: Y chatgpt ki help se
+**07/02/2025, 11**: 27 pm - warishayat69: Rag khtm krk apis bna k m help. Krdugaaa hs m b
+**07/02/2025, 11**: 28 pm - Vinay India: Landing page kaise bnega
+**07/02/2025, 11**: 28 pm - Vinay India: Global or private rag ka
+**07/02/2025, 11**: 29 pm - warishayat69: Ju e user landing page pr jayega wahan 2 cards hngy aur acha sa bacj ground lga dena fr ik hoga public ik hoga private private pr clivk krein gy tu id pass mangyga then wo accessible hoga public wly card m public rag hoga usko click kryga koi b user tu whn pr upload krk questions kr skta hae.
+**07/02/2025, 11**: 30 pm - warishayat69: Baki manveer sir se b ik bar cnfmr kr lena esay e hoga
+**07/02/2025, 11**: 30 pm - Vinay India: Theek h
+**07/02/2025, 11**: 30 pm - Vinay India: Kal bnata hoon
+**07/02/2025, 11**: 30 pm - Vinay India: Fir dikhata aapko
+**07/02/2025, 11**: 30 pm - Vinay India: Hnji
+**07/02/2025, 11**: 30 pm - warishayat69: Acha achaa
+**07/02/2025, 11**: 31 pm - Vinay India: Ji
+**07/02/2025, 11**: 31 pm - warishayat69: M thura phone chrg karlu battery khtm hogyi iski
+**07/02/2025, 11**: 33 pm - Vinay India: Ok ji
+**09/02/2025, 1**: 43 pm - warishayat69: You deleted this message
+**09/02/2025, 6**: 24 pm - Vinay India: Ji sir?
+**09/02/2025, 6**: 24 pm - Vinay India: Kya delete kiya bhai?
+**09/02/2025, 6**: 24 pm - Vinay India: null
+**09/02/2025, 10**: 10 pm - warishayat69: Kesi h quiz ki tyari
+**09/02/2025, 10**: 10 pm - Vinay India: bas upr upr se dekh liye sare
+**09/02/2025, 10**: 12 pm - warishayat69: Achaa
+**09/02/2025, 10**: 12 pm - Vinay India: vo bhi bhag gya lgta hain
+**09/02/2025, 10**: 13 pm - warishayat69: Hnn
+**09/02/2025, 10**: 16 pm - Vinay India: Ans bhejte rehna
+**09/02/2025, 10**: 33 pm - warishayat69: Yr sub khud se lgay
+**09/02/2025, 10**: 33 pm - warishayat69: Wo tu tha e naii jo video thi
+**09/02/2025, 10**: 34 pm - Vinay India: Kya
+**09/02/2025, 10**: 34 pm - warishayat69: Jo courses thy wo questions ni hn
+**09/02/2025, 10**: 38 pm - Vinay India: Haan
+**09/02/2025, 10**: 38 pm - Vinay India: Ajeeb se sawal bnaye h
+**09/02/2025, 10**: 39 pm - warishayat69: han srf ik mujhy phla ata tha
+**09/02/2025, 10**: 40 pm - Vinay India: Hn mene bhi tukke se hi maare
+**09/02/2025, 10**: 40 pm - Vinay India: Doubt h kafi m
+**09/02/2025, 10**: 40 pm - warishayat69: Sub m e doubt tha.
+**09/02/2025, 10**: 41 pm - Vinay India: Last vale hue
+**09/02/2025, 10**: 41 pm - Vinay India: Mere se
+**09/02/2025, 10**: 41 pm - Vinay India: Vo project related the
+**09/02/2025, 10**: 41 pm - Vinay India: Googleoath vgrra
+**09/02/2025, 10**: 41 pm - warishayat69: Ach achaa...
+**09/02/2025, 10**: 42 pm - Vinay India: Hn
+**09/02/2025, 10**: 42 pm - Vinay India: Baki m kuch bhi bhrdiya
+**09/02/2025, 10**: 42 pm - warishayat69: Hmm💕
+**09/02/2025, 10**: 42 pm - Vinay India: Kuch chatgpt se kre
+**09/02/2025, 10**: 42 pm - warishayat69: Chalo khr h yr.
+**09/02/2025, 10**: 42 pm - warishayat69: First h khr h
+**09/02/2025, 10**: 42 pm - Vinay India: Haan
+**09/02/2025, 10**: 43 pm - Vinay India: Bnane m tym lgaya bhut
+**09/02/2025, 10**: 44 pm - warishayat69: Chlo khrrr h
+**09/02/2025, 10**: 51 pm - Vinay India: Aapka score kya aaya
+**09/02/2025, 10**: 53 pm - Vinay India: ?
+**09/02/2025, 10**: 53 pm - Vinay India: Mail m check kro
+**09/02/2025, 10**: 59 pm - warishayat69: 14
+**09/02/2025, 10**: 59 pm - warishayat69: Ay
+**09/02/2025, 10**: 59 pm - Vinay India: Sahi h
+**09/02/2025, 10**: 59 pm - warishayat69: Apk
+**09/02/2025, 10**: 59 pm - Vinay India: Bhot glt hue mere bhi
+**09/02/2025, 10**: 59 pm - Vinay India: 17
+**09/02/2025, 11**: 00 pm - warishayat69: Acha best a yr
+**09/02/2025, 11**: 00 pm - Vinay India: Multiple vale toh glt hue
+**09/02/2025, 11**: 00 pm - warishayat69: Hn mery b
+**09/02/2025, 11**: 00 pm - Vinay India: Kal se krte kaam start
+**09/02/2025, 11**: 00 pm - warishayat69: Okay hae.
+**10/02/2025, 5**: 56 pm - warishayat69: Merii bta dena im not available meri clsis start hn 11 bjy wly session m augaa
+**10/02/2025, 5**: 57 pm - Vinay India: ok bhai
+**10/02/2025, 5**: 57 pm - Vinay India: np
+**10/02/2025, 7**: 35 pm - warishayat69: Kia bna session m
+**10/02/2025, 7**: 41 pm - Vinay India: Kuch nhi
+**10/02/2025, 7**: 41 pm - warishayat69: Kuch kea
+**10/02/2025, 7**: 41 pm - Vinay India: Bas vhi daily work kro
+**10/02/2025, 7**: 42 pm - Vinay India: Hn linkedin se hogya tha
+**10/02/2025, 7**: 42 pm - Vinay India: Ab landing page dekhra hoon
+**10/02/2025, 7**: 42 pm - warishayat69: Acha achaa
+**10/02/2025, 7**: 42 pm - Vinay India: Ji
+**10/02/2025, 7**: 47 pm - warishayat69: M b jkr krta hu
+**10/02/2025, 10**: 01 pm - Vinay India: https://youtu.be/5fiXEGdEK10
+**10/02/2025, 10**: 01 pm - Vinay India: yeh dekhna
+**10/02/2025, 10**: 01 pm - Vinay India: aisa bnau
+**10/02/2025, 10**: 05 pm - warishayat69: yea tu specific chatbot k liye henaa
+**10/02/2025, 10**: 06 pm - Vinay India: Haan
+**10/02/2025, 10**: 06 pm - Vinay India: Private rag ke ander hume kaisa bnana hain
+**10/02/2025, 10**: 06 pm - Vinay India: Or public rag ke bhi
+**10/02/2025, 10**: 07 pm - warishayat69: same to same hoga bus private wla yea hoga k usko koi r acess nai kr skta uska or alg se password hoga ju e koi click karega tu wo login magyga
+**10/02/2025, 10**: 08 pm - Vinay India: Achaa
+**10/02/2025, 10**: 08 pm - warishayat69: ji
+**10/02/2025, 11**: 08 pm - Vinay India: Asjad toh bdhiya tym p Sikh jaayega
+**10/02/2025, 11**: 15 pm - warishayat69: han je blkul
+**10/02/2025, 11**: 16 pm - Vinay India: Insightify/
+- │── backend/
+- │   │── src/
+- │   │   │── auth/                # Authentication (OAuth 2.0 - Google, LinkedIn)
+- │   │   │── api/                 # API Endpoints (FastAPI, Node.js)
+- │   │   │── rag/                 # Retrieval-Augmented Generation (Pinecone, Llama)
+- │   │   │── ocr/                 # OCR Processing (Claude, GPT Vision, Donut, LayoutLMv3)
+- │   │   │── summarization/       # Text & PDF Summarization (Hybrid Search & Chunking)
+- │   │   │── finance/             # P&L, Balance Sheets, Financial Portfolios
+- │   │   │── whatsapp/            # WhatsApp Chat Processing & Encoding
+- │   │   │── storage/             # Google Drive, MongoDB, Pinecone Integration
+- │   │   │── utils/               # Helper Functions
+- │   │── config.py                # Configuration Settings
+- │   │── main.py                  # FastAPI Main Server
+- │   │── requirements.txt         # Dependencies
+- 
+- │── frontend/
+- │   │── src/
+- │   │   │── components/         # Reusable React Components
+- │   │   │── pages/              # App Pages
+- │   │   │── services/           # API Call Functions
+- │   │   │── styles/             # TailwindCSS Styles
+- │   │── public/                 # Static Files
+- │   │── App.js                  # Main React App
+- │   │── index.js                # Entry Point
+- │   │── package.json            # Frontend Dependencies
+- 
+- │── database/
+- │   │── mongodb/                # Unstructured Data Storage
+- │   │── pinecone/               # Vector Database for Embeddings
+- │   │── postgresql/             # Structured Data
+- 
+- │── docs/
+- │   │── architecture.md         # System Architecture & Design
+- │   │── api-docs.md             # API Documentation
+- │   │── compliance.md           # Security & Compliance
+- 
+- │── scripts/
+- │   │── data_export.py          # CSV/XML Export Scripts
+- │   │── pdf_parser.py           # Efficient PDF Parsing
+- 
+- │── tests/
+- │   │── backend/
+- │   │── frontend/
+- 
+- │── .gitignore
+- │── README.md
+- │── LICENSE
+**10/02/2025, 11**: 16 pm - Vinay India: mein starting se bna rha hu project
+**10/02/2025, 11**: 16 pm - Vinay India: yeh dekhna aap ?
+**10/02/2025, 11**: 16 pm - Vinay India: yeh file structure sahi hain?
+**10/02/2025, 11**: 17 pm - warishayat69: PTT-20250210-WA0047.opus (file attached)
+**10/02/2025, 11**: 17 pm - Vinay India: issey cheeze sorted rhegi
+**10/02/2025, 11**: 18 pm - warishayat69: PTT-20250210-WA0048.opus (file attached)
+**10/02/2025, 11**: 18 pm - Vinay India: GitHub p sath k sath update kaise hota hain
+**10/02/2025, 11**: 18 pm - Vinay India: vo btao
+**10/02/2025, 11**: 18 pm - Vinay India: aapka or mera code linked rhega fir
+**10/02/2025, 11**: 19 pm - warishayat69: PTT-20250210-WA0049.opus (file attached)
+**10/02/2025, 11**: 19 pm - warishayat69: PTT-20250210-WA0050.opus (file attached)
+**10/02/2025, 11**: 19 pm - Vinay India: isme hum postre sql m kya save krenhe
+**10/02/2025, 11**: 20 pm - warishayat69: PTT-20250210-WA0051.opus (file attached)
+**10/02/2025, 11**: 20 pm - Vinay India: acha
+**10/02/2025, 11**: 20 pm - Vinay India: fir sath sath ke update hogi
+**10/02/2025, 11**: 21 pm - warishayat69: PTT-20250210-WA0052.opus (file attached)
+**10/02/2025, 11**: 21 pm - Vinay India: ok
+**10/02/2025, 11**: 22 pm - warishayat69: PTT-20250210-WA0053.opus (file attached)
+**10/02/2025, 11**: 23 pm - Vinay India: achaa
+**10/02/2025, 11**: 23 pm - Vinay India: sari ek jgh?
+**10/02/2025, 11**: 23 pm - Vinay India: yeh best hain fir toh
+**10/02/2025, 11**: 24 pm - warishayat69: Han jeee
+**10/02/2025, 11**: 29 pm - Vinay India: mein new GitHub repo bna raha hu
+**10/02/2025, 11**: 29 pm - warishayat69: PTT-20250210-WA0054.opus (file attached)
+**10/02/2025, 11**: 29 pm - Vinay India: usme mt krna ab
+**10/02/2025, 11**: 30 pm - Vinay India: aap ek sath new vale mein krdena
+**10/02/2025, 11**: 30 pm - Vinay India: abhi vohi bnaraha hu
+**10/02/2025, 11**: 32 pm - warishayat69: PTT-20250210-WA0055.opus (file attached)
+**10/02/2025, 11**: 34 pm - Vinay India: aapka code locally save hain n
+**10/02/2025, 11**: 34 pm - Vinay India: vo ek sath krdena aisa keh raha hu
+**10/02/2025, 11**: 34 pm - warishayat69: Locally mtkib smja ni
+**10/02/2025, 11**: 34 pm - Vinay India: apke laptop pr
+**10/02/2025, 11**: 35 pm - warishayat69: Han je wo tu hae.
+**10/02/2025, 11**: 35 pm - Vinay India: bas fir issue nhi h
+**10/02/2025, 11**: 36 pm - Vinay India: aapka sara code locally save rkho
+**10/02/2025, 11**: 36 pm - warishayat69: Achaa
+**10/02/2025, 11**: 36 pm - warishayat69: Achaa
+**10/02/2025, 11**: 36 pm - Vinay India: baad m ek sath daldena GitHub pr
+**10/02/2025, 11**: 38 pm - warishayat69: ok hae done
+**11/02/2025, 10**: 24 pm - Vinay India: Mene abhi kafi sahi kr liya hain.
+- 
+- Mein kal tak uska chatbot design krdunga inside rag ke.
+**11/02/2025, 10**: 24 pm - Vinay India: Mein meeting mein nhi aa paunga
+**11/02/2025, 10**: 24 pm - warishayat69: ku?
+**11/02/2025, 10**: 24 pm - warishayat69: ach acha
+**11/02/2025, 10**: 24 pm - Vinay India: Aaj thaka hua hu thoda
+**11/02/2025, 10**: 24 pm - Vinay India: Interview tha subh ek
+**11/02/2025, 10**: 24 pm - warishayat69: mera b bus ik endpoint rehta hae
+**11/02/2025, 10**: 24 pm - warishayat69: hogya hae
+**11/02/2025, 10**: 24 pm - Vinay India: Nice nice
+**11/02/2025, 10**: 24 pm - warishayat69: kesa hua
+**11/02/2025, 10**: 24 pm - Vinay India: Vo toh clear hogya
+- Abhi second round hoga 13 ko🥲🥲
+**11/02/2025, 10**: 25 pm - Vinay India: Boldena manveer sir ko ki yeh kal tak hojayega
+**11/02/2025, 10**: 25 pm - warishayat69: han bol duga
+**11/02/2025, 10**: 25 pm - Vinay India: Mene unhe bhi inform krdiya hain
+**11/02/2025, 10**: 25 pm - warishayat69: hojaye ga wo b
+**11/02/2025, 10**: 25 pm - Vinay India: 5 rounds h total 🥲
+**11/02/2025, 10**: 30 pm - warishayat69: IMG-20250212-WA0001.jpg (file attached)
+**11/02/2025, 10**: 30 pm - warishayat69: akhri wala endpoint b hogya
+**11/02/2025, 10**: 30 pm - warishayat69: koonaii hojayega
+**11/02/2025, 10**: 30 pm - Vinay India: Yeh aapne kispe bnayi
+**11/02/2025, 10**: 30 pm - Vinay India: Ab aapka next step kya hain ?
+**11/02/2025, 10**: 31 pm - warishayat69: fastapi
+**11/02/2025, 10**: 31 pm - warishayat69: swagger ui se apis ko test kar ra tha
+**11/02/2025, 10**: 31 pm - warishayat69: ab yhi puchra tha agy kia karu
+**11/02/2025, 10**: 32 pm - Vinay India: Acha acha
+**11/02/2025, 10**: 32 pm - Vinay India: Okayy
+**11/02/2025, 10**: 32 pm - Vinay India: https://fireducks-dev.github.io/
+**11/02/2025, 10**: 32 pm - Vinay India: for excel sheets
+**11/02/2025, 10**: 33 pm - Vinay India: Yeh btaya aaj manveer ne Mrityunjay ko
+**11/02/2025, 10**: 33 pm - warishayat69: iska kia karna hae
+**11/02/2025, 10**: 33 pm - Vinay India: Balance sheet ka h shyd
+**11/02/2025, 10**: 33 pm - Vinay India: Ek baar puchlena firse
+**11/02/2025, 10**: 34 pm - warishayat69: acha yea frontend se managae nai hogi
+**11/02/2025, 10**: 36 pm - Vinay India: pta nhi
+**11/02/2025, 10**: 52 pm - warishayat69: acha achaa
+**11/02/2025, 10**: 53 pm - Vinay India: kya krna hain ab
+**11/02/2025, 10**: 53 pm - Vinay India: meet m kya hua
+**11/02/2025, 10**: 55 pm - warishayat69: kuch b nai manveer sir bolray hn 4 days aur hn kam ko fast karo
+**11/02/2025, 10**: 55 pm - Vinay India: achaa
+**11/02/2025, 10**: 55 pm - warishayat69: aur wo bataya h csv wala aur private rag wala
+**11/02/2025, 10**: 55 pm - Vinay India: easy hain?
+**11/02/2025, 10**: 56 pm - warishayat69: filhal k lie tu easy e lagra hae agy nai pta kia hoga
+**11/02/2025, 10**: 56 pm - Vinay India: chlo dekhlenge
+**11/02/2025, 10**: 56 pm - Vinay India: aap kya kroge ab?
+**11/02/2025, 10**: 57 pm - warishayat69: ab m private rag aur wo karuga csv wala aj rat aur kal sham tak
+**11/02/2025, 10**: 57 pm - warishayat69: kal m try karuga laptop le jau uni m dr beht k b karu
+**11/02/2025, 10**: 57 pm - Vinay India: apka backend ka kitna rehta h abhi
+**11/02/2025, 10**: 57 pm - Vinay India: haan sahi h
+**11/02/2025, 10**: 58 pm - warishayat69: backend hogya hae
+**11/02/2025, 10**: 58 pm - warishayat69: public wla sara
+**11/02/2025, 10**: 58 pm - Vinay India: acha
+**11/02/2025, 10**: 58 pm - Vinay India: bas private rehta hain?
+**11/02/2025, 10**: 58 pm - warishayat69: private wly ka aur ik csv wly ka end point bnauga
+**11/02/2025, 10**: 58 pm - Vinay India: fir frontend se link krna bas?
+**11/02/2025, 10**: 58 pm - Vinay India: 4days m hojayega?
+**11/02/2025, 10**: 59 pm - warishayat69: han je
+**11/02/2025, 10**: 59 pm - warishayat69: m aj rat ko kar duga
+**11/02/2025, 10**: 59 pm - warishayat69: donu kam yeh
+**11/02/2025, 10**: 59 pm - warishayat69: kal apkrlo
+**11/02/2025, 10**: 59 pm - warishayat69: next 3 days m deployment kareingy
+**11/02/2025, 10**: 59 pm - warishayat69: integerate kark
+**11/02/2025, 10**: 59 pm - Vinay India: merko kya kya krna hain
+**11/02/2025, 11**: 00 pm - Vinay India: pehle google login, linkedin se auth kiya
+**11/02/2025, 11**: 00 pm - Vinay India: then landing page ke ander 2 page banye
+**11/02/2025, 11**: 00 pm - Vinay India: then private k ander login.signup import kra
+**11/02/2025, 11**: 00 pm - Vinay India: chat interface bnana hain na
+**11/02/2025, 11**: 00 pm - Vinay India: ?
+**11/02/2025, 11**: 00 pm - Vinay India: baki?
+**12/02/2025, 12**: 01 am - warishayat69: Han
+**12/02/2025, 12**: 01 am - warishayat69: Bus wahi h
