@@ -90,6 +90,11 @@ multimodal-rag/
 │── requirements.txt  # Dependencies
 │── README.md  # Documentation
 ```
+## Demo Video
+
+
+https://github.com/user-attachments/assets/a74577cf-7e87-4120-aecf-234cdf0baebb
+
 
 ## License
 This project is licensed under the **MIT License**.
